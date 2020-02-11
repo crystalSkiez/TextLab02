@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TextLab02</string>
+    <string name="enter_name">enter name</string>
+    <string name="startword">word word word</string>
+    <string name="hello"> hello there %1$s! have a good day!</string>
+    <string name="getwords">Get A Word</string>
+    <string-array name="randomwords">
+        <item> twinkle twinkle</item>
+        <item> little star </item>
+        <item> how i wonder </item>
+        <item> what you are</item>
+        <item> up above </item>
+        <item> the world so high</item>
+        <item> like a diamond</item>
+        <item> in the sky</item>
+        <item> twinkle twinkle</item>
+        <item> little star </item>
+        <item> how i wonder </item>
+        <item> what you are</item>
+        <item> the end </item>
+    </string-array>
+</resources>
